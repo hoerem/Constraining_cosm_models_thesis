@@ -6,11 +6,16 @@ The data files are from: https://github.com/PantheonPlusSH0ES/DataRelease
 specifically see:
 --> Pantheon+_Data --> 4_DISTANCES_AND_COVAR
 
-Project structure:
+### Project structure:
 In the Jupyter Notebooks thesis_code_CDM.ipynb and thesis_code_DGP.ipynb all codes for the plots are shown - grouped by the corresponding models.
 The files are each structured by:
 - Fitting the data
 - Contour Plots
-- MCMC Ccntour Plots
+- MCMC Contour Plots
 
+The code comments are in German as this is my mother tongue - nevertheless, the code should be understandably structured and thus readable for everyone.
 
+### Disclaimer:
+This code has been restructured and consolidated from multiple Jupyter Notebook cells. 
+While care was taken to preserve the logical flow and correctness, the full pipeline has not been re-executed due to the computational cost of the calculations. 
+As such, there might be minor inconsistencies or missing intermediate results that would normally be generated during runtime.
