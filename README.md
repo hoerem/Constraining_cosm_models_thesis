@@ -16,6 +16,6 @@ The files are each structured by:
 The code comments are in German as this is my mother tongue - nevertheless, the code should be understandably structured and thus readable for everyone.
 
 ### Disclaimer:
-This code has been restructured and consolidated from multiple Jupyter Notebook cells. 
+This code has been restructured and consolidated from multiple Jupyter Notebook cells in order to enhance clarity and exclude unnecessary code cells.
 While care was taken to preserve the logical flow and correctness, the full pipeline has not been re-executed due to the computational cost of the calculations. 
-As such, there might be minor inconsistencies or missing intermediate results that would normally be generated during runtime.
+As such, there might be minor inconsistencies in the code.
