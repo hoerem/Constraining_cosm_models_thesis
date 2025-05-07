@@ -7,11 +7,12 @@ specifically see:
 --> Pantheon+_Data --> 4_DISTANCES_AND_COVAR
 
 ### Project structure:
-In the Jupyter Notebooks thesis_code_CDM.ipynb and thesis_code_DGP.ipynb all codes for the plots are shown - grouped by the corresponding models.
+In the Jupyter Notebooks thesis_code_CDM.ipynb, thesis_code_wCDM.ipynb and thesis_code_DGP.ipynb all codes for the plots are shown - grouped by the corresponding models.
 The files are each structured by:
 - Fitting the data
 - Contour Plots
 - MCMC Contour Plots
+- Histograms
 
 The code comments are in German as this is my mother tongue - nevertheless, the code should be understandably structured and thus readable for everyone.
 
